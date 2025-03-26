@@ -169,3 +169,11 @@ Figure-2  data set was relational but still  I made sure that is should be relat
 
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/617cfbf5526183d1a283d32951314afbcb523f2b/image.png)
 
+
+
+
+I run the business question query – what is the avg project value of the van city projects of building ( in includes residential and commercial)
+
+
+![image.alt]()
+
