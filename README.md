@@ -139,3 +139,23 @@ AWS price estimator
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/d92cb067ecd5d76d609608ca210e1721dea57e19/image.png)
 
 
+
+
+Now i am going to apply some more procedure on the Van city data to make it more usefull information Out of it. 
+
+
+
+
+The implementation of the Data Analytics platform is done in four phases.
+
+
+1.	Data Analysis: Using AWS Glue to create a Data Catalog and the business questions using SQL.
+2.	Data Security: Using the AWS Key Management Service (KMS) for encryption of the buckets in the AWS S3 Bucket.
+3.	Data Governance: Using AWS Glue to create a pipeline that examines the data quality and saves the result in the AWS S3 Buckets. 
+4.	Data Monitoring: Using AWS CloudWatch and AWS CloudTrail to keep track of data security and monitor performance and integrity to identify operational failures and unauthorized access as well as inefficiencies for continuous operations that adhere to AWS governance policies.
+
+
+
+![image]()
+
+
