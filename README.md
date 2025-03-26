@@ -74,9 +74,9 @@ In this step, I analyse the quality of the data by checking for errors, missing 
 
 
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/ee0a716aa30c781fa38d6fcb8e0cd941d915634b/image.png)
-figure no 3
 
 
+user output  
 
 ![image.alt](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
 
@@ -116,4 +116,8 @@ Final output of both the report for the user and system
 
 
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/56fc87f37b2bcf3084ccc89257abc1d95d1053d3/image.png)
+
+
+
+![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/18771e134ca1b5d2adcfab98d6cda96cf5f12fbe/image.png)
 
