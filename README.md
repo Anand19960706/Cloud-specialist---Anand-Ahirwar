@@ -93,3 +93,13 @@ data cleaning like rename the column heading for easy understanding.
 
 
 
+Data Cataloging - Organizing the cleaned data into a well-defined schema
+
+
+I organize the data by creating a tabular format  data source. This makes it easier to locate and use relevant data when it’s in need .
+
+
+![image.alt]()
+
+
+
