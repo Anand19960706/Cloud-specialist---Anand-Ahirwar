@@ -32,7 +32,7 @@ Data analytics platform (DAP) design – This is the road map for the whole AWS 
 
 
 
-image.png
+![image.alt](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
 
 
 1.	Data Collection & Ingestion of  Building permit  dataset and uploading into S3 bucket.
