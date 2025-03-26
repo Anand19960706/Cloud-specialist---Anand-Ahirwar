@@ -99,7 +99,7 @@ Data Cataloging - Organizing the cleaned data into a well-defined schema
 I organize the data by creating a tabular format  data source. This makes it easier to locate and use relevant data when it’s in need .
 
 
-![image.alt]()
+![image.alt](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
 
 
 
