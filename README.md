@@ -177,3 +177,14 @@ I run the business question query – what is the avg project value of the van c
 
 ![image.alt](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
 
+
+
+
+
+
+Now I applied the data security measure by creating the KMS key which help to protect the data. 
+
+
+
+![image.alt]()
+
