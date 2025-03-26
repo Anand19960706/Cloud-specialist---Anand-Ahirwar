@@ -59,7 +59,7 @@ Data Collection & Ingestion -
 downloaded the data.csv (Permits_dataset.csv) from city of Vancouver portal. It is the big data all the permits issued by the city along with issue date, name of the applicant, type of property, value of the property, created date of the permit and other 10-15 columns related to building permit issue.
 
 
-![image.alt]()
+![image.alt](https://github.com/Anand19960706/data-analysts-anand/blob/35e3677fbb6d7d4dd8204b47da98cdf8919242d5/image.png)
 
 
 
