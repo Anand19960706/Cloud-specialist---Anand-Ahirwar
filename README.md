@@ -83,6 +83,13 @@ figure no 3
 
 
 
+Data Cleaning - Using AWS Glue DataBrew
+
+
+data cleaning like rename the column heading for easy understanding. 
+
+
+![image.alt]()
 
 
 
