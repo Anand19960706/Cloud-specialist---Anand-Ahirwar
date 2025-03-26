@@ -108,3 +108,13 @@ I summaries the data so that it is useful to make decision. a field and columns 
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/8041933c60cff6eef4919a9bca928caa57d76bcc/image.png)
 
 
+
+Final output of both the report for the user and system 
+
+
+
+
+
+![image.alt]()
+
+
