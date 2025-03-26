@@ -3,7 +3,7 @@ AWS Cloud-specialist---Anand-Ahirwar
  👋 Hi, I'm Anand Ahirwar  
 
 
-📊 Data Analyst | 🔍 EDA | 🛠️ Data Wrangling | 📈 Data Visualization
+AWS Cloud-specialist|📊 Data Analyst | 🔍 EDA | 🛠️ Data Wrangling | 📈 Data Visualization
 Doing MBA in Business but Major in Business anlytics and cloud computing, data understanding. 
 
 Welcome to my GitHub portfolio!  
