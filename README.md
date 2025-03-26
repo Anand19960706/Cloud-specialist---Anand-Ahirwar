@@ -1,6 +1,6 @@
 # data-analysts-anand
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Anand Ahirwar  
 **📊 Data Analyst | 🔍 EDA | 🛠️ Data Wrangling | 📈 Data Visualization
 Doing MBA in Business but Major in Business anlytics and cloud computing, data understanding. 
 
