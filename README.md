@@ -214,7 +214,7 @@ In this process I applied Encryption using the above key which I made in perviou
 in this I used the AWS Glue to check the quality of data, applied few filters like completeness, uniqueness and number of columns filter.  
 
 
-![image.alt]()
+![image.alt](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
 
 
 
