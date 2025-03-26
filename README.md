@@ -162,3 +162,10 @@ data analytics platform for the City of Vancouver
 ![image](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
 
 
+
+Figure-2  data set was relational but still  I made sure that is should be relational and single source of truth . So dataset transfer to user and system for further usage , for the user I maintained the CSV file and for the system easy usage set the output in parquet file.   
+
+(User output structed data)
+
+![image.alt]()
+
