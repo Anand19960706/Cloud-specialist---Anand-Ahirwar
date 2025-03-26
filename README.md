@@ -67,6 +67,13 @@ downloaded the data.csv (Permits_dataset.csv) from city of Vancouver portal. It 
 
 
 
+Data Profiling - Using AWS Glue DataBrew to structure the data.
+In this step, I analyse the quality of the data by checking for errors, missing values, and patterns. This helps me understand the structure and completeness of the data before using it for analysis. I created the new bucket in S3 by the name of van-city-trf-anand. After adding profiling job the file saved to van-city-trf-anand. 
+
+
+
+
+![image.alt]()
 
 
 
