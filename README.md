@@ -89,7 +89,7 @@ Data Cleaning - Using AWS Glue DataBrew
 data cleaning like rename the column heading for easy understanding. 
 
 
-![image.alt]()
+![image.alt](https://github.com/Anand19960706/data-analysts-anand/blob/2d7280ad218c4f5339032bd1bcbd6b09cd2f5d4b/image.png?raw=true)
 
 
 
