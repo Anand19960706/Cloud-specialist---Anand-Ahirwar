@@ -118,6 +118,24 @@ Final output of both the report for the user and system
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/56fc87f37b2bcf3084ccc89257abc1d95d1053d3/image.png)
 
 
+user out put 
+
 
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/18771e134ca1b5d2adcfab98d6cda96cf5f12fbe/image.png)
+
+
+
+
+
+DAP Estimated Cost	Monthly cost(USD)	Total 12 months cost(USD)
+Team member 2
+Data Cleaning & Data Summarization	3.10*12 
+(month*12) 	37.20USD
+		
+
+AWS price extimator 
+
+
+![image.alt]()
+
 
