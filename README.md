@@ -155,6 +155,9 @@ The implementation of the Data Analytics platform is done in four phases.
 4.	Data Monitoring: Using AWS CloudWatch and AWS CloudTrail to keep track of data security and monitor performance and integrity to identify operational failures and unauthorized access as well as inefficiencies for continuous operations that adhere to AWS governance policies.
 
 
+data analytics platform for the City of Vancouver
+(DAP Daigram)
+
 
 ![image](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
 
