@@ -1,13 +1,33 @@
 data-analysts-anand
 
  👋 Hi, I'm Anand Ahirwar  
+
+
 📊 Data Analyst | 🔍 EDA | 🛠️ Data Wrangling | 📈 Data Visualization
 Doing MBA in Business but Major in Business anlytics and cloud computing, data understanding. 
 
 Welcome to my GitHub portfolio!  
+
 Here, you'll find a collection of my data analysis projects, showcasing my skills in exploratory data analysis (EDA), data wrangling, and visualization using Python, SQL, Tableau, and Power BI.  
 
-✨ I’m passionate about transforming raw data into meaningful insights to drive better decision-making. Feel free to explore my projects, and don’t hesitate to reach out if you have any questions or collaboration ideas!
+ I am deeply passionate about cloud computing, with a particular fascination for Amazon Web Services (AWS). Ever since I first explored the world of cloud technology, I’ve been captivated by its limitless potential to revolutionize how businesses operate—making them more agile, scalable, and efficient. AWS, in particular, stands out to me because of its sheer versatility and dominance in the industry. The idea of building resilient, secure, and innovative solutions on the AWS platform excites me and drives my commitment to mastering its services.
+
+I am especially drawn to AWS’s breadth of services—from foundational tools like Amazon EC2, S3, and RDS to cutting-edge solutions such as AWS Lambda, Elastic Kubernetes Service (EKS), and CloudFormation. The flexibility AWS offers in creating serverless architectures and automated deployments inspires me to dive deeper into its capabilities. I am eager to explore DevOps practices, leveraging AWS tools for continuous integration and delivery (CI/CD), infrastructure as code (IaC), and cloud security optimization.
+
+My journey into AWS is not just about learning individual services—it’s about understanding how to design and implement holistic cloud solutions. I actively seek out hands-on experience through labs, projects, and certifications. My goal is to earn the AWS Certified Solutions Architect – Associate certification as a stepping stone toward becoming an expert in cloud architecture. This certification will validate my skills and reflect my dedication to building efficient, reliable, and scalable cloud systems.
+
+What truly drives me is the realization that AWS is not just transforming technology—it is reshaping industries. The prospect of being part of this cloud-driven evolution, helping organizations innovate faster, reduce costs, and enhance security, genuinely excites me. I am determined to continuously expand my knowledge, staying ahead of industry trends and mastering the latest AWS innovations.
+
+Ultimately, my ambition is to become a cloud solutions architect who not only builds secure and scalable infrastructures but also drives innovation and solves real-world challenges. I am excited to embark on this journey, fueled by an unyielding curiosity and a deep-seated passion for AWS and its transformative power.
+
+
+
+
+
+
+
+
+
 
 📫 Connect with me:  
 💼 [LinkedIn]-www.linkedin.com/in/anand-ahirwar
@@ -16,7 +36,7 @@ Here, you'll find a collection of my data analysis projects, showcasing my skill
 
 
 
-AWS - Amamzon web services 
+AWS - Amamzon web services ( Detailed project on Vancouver city ( Building Permit issued by city)
 
 
 i took City vancouver DATA of BUildiing Permit Issued Till now , it includes permit number , property location and many more features. 
