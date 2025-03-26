@@ -188,3 +188,37 @@ Now I applied the data security measure by creating the KMS key which help to pr
 
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/b053be7b1d7e9f9aa9734e207841080da9f44fe3/image.png)
 
+
+
+
+
+
+
+In this process I applied Encryption using the above key which I made in pervious screenshot
+
+
+
+
+![image.alt]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
