@@ -156,6 +156,6 @@ The implementation of the Data Analytics platform is done in four phases.
 
 
 
-![image]()
+![image](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
 
 
