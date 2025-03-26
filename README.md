@@ -186,6 +186,5 @@ Now I applied the data security measure by creating the KMS key which help to pr
 
 
 
-![image.alt](<img width="452" alt="image" src="https://github.com/user-attachments/assets/9684ca70-e1dd-4219-a812-976996eef04d" />
-)
+![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/b053be7b1d7e9f9aa9734e207841080da9f44fe3/image.png)
 
