@@ -105,6 +105,6 @@ Data Summarization
 
 I summaries the data so that it is useful to make decision. a field and columns which are not required I removed them to make a concise report in the format of (.csv) for the user and (.parquet)  file for the system 
 
-![image.alt]()
+![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/8041933c60cff6eef4919a9bca928caa57d76bcc/image.png)
 
 
