@@ -1,7 +1,7 @@
-# data-analysts-anand
+data-analysts-anand
 
-# 👋 Hi, I'm Anand Ahirwar  
-**📊 Data Analyst | 🔍 EDA | 🛠️ Data Wrangling | 📈 Data Visualization
+ 👋 Hi, I'm Anand Ahirwar  
+📊 Data Analyst | 🔍 EDA | 🛠️ Data Wrangling | 📈 Data Visualization
 Doing MBA in Business but Major in Business anlytics and cloud computing, data understanding. 
 
 Welcome to my GitHub portfolio!  
@@ -10,9 +10,9 @@ Here, you'll find a collection of my data analysis projects, showcasing my skill
 ✨ I’m passionate about transforming raw data into meaningful insights to drive better decision-making. Feel free to explore my projects, and don’t hesitate to reach out if you have any questions or collaboration ideas!
 
 📫 Connect with me:  
-- 💼 [LinkedIn]-www.linkedin.com/in/anand-ahirwar
+💼 [LinkedIn]-www.linkedin.com/in/anand-ahirwar
   
-- 📧 [Email]-ahirwar.anand96@gmail.com 
+📧 [Email]-ahirwar.anand96@gmail.com 
 
 
 
