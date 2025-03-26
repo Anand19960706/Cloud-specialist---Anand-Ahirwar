@@ -54,6 +54,12 @@ Vancouver city portal- Its shows value of the building permit issued between to 
 
 
 
+Data Collection & Ingestion -  
+
+downloaded the data.csv (Permits_dataset.csv) from city of Vancouver portal. It is the big data all the permits issued by the city along with issue date, name of the applicant, type of property, value of the property, created date of the permit and other 10-15 columns related to building permit issue.
+
+
+![image.alt]()
 
 
 
