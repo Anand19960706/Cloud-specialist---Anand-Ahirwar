@@ -26,6 +26,15 @@ DAP Design and Implementation and Descriptive Analysis
 Project overview  - This analysis aims to track changes in number of building permits issued. This analysis helps understand how many permits are issued and what is the issue date, created date , applicant name , years of issue ,  address of the building and etc.  
 
 The data analytic platform is designed based on four key components:
+
+
+Data analytics platform (DAP) design – This is the road map for the whole AWS process which I have followed to land o the result i.e. Summarization technique
+
+
+
+
+
+
 1.	Data Collection & Ingestion of  Building permit  dataset and uploading into S3 bucket.
 2.	Data Profiling - Using AWS Glue DataBrew to from  structured  data.
 3.	Data Cleaning - Using AWS Glue DataBrew to clean the data.
