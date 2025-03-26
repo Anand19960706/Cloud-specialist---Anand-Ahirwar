@@ -45,6 +45,11 @@ Data analytics platform (DAP) design – This is the road map for the whole AWS 
 
 
 
+Data analysis diagram 
+Vancouver city portal- Its shows value of the building permit issued between to year 2017 to 2015 and other Y- axis line shows permit elapsed days.  
+
+![image](https://github.com/user-attachments/assets/3101cdc5-e05f-4b91-96d3-0b50ce87e12f)
+
 
 
 
