@@ -133,7 +133,7 @@ Data Cleaning & Data Summarization	3.10*12
 (month*12) 	37.20USD
 		
 
-AWS price extimator 
+AWS price estimator 
 
 
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/d92cb067ecd5d76d609608ca210e1721dea57e19/image.png)
