@@ -179,7 +179,7 @@ data analytics platform for the City of Vancouver
 (DAP Daigram)
 
 
-![image](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
+![image](https://github.com/Anand19960706/Cloud-specialist---Anand-Ahirwar/blob/d290cc4bae8798091a5af34bf914182aff34262b/image.png?raw=true)
 
 
 
