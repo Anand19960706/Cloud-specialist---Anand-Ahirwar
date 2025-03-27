@@ -96,10 +96,6 @@ In this step, I analyse the quality of the data by checking for errors, missing 
 ![image.alt](https://raw.githubusercontent.com/Anand19960706/data-analysts-anand/ee0a716aa30c781fa38d6fcb8e0cd941d915634b/image.png)
 
 
-user output  
-
-![image.alt](https://github.com/Anand19960706/data-analysts-anand/blob/main/image.png?raw=true)
-
 
 
 
